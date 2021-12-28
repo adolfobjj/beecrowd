@@ -1,3 +1,3 @@
-# beecrowd  URI 1000 A 1005
+# beecrowd  
 Problemas resolvidos no site em Java.
 
