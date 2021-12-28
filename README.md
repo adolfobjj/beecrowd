@@ -2,7 +2,7 @@
 Problemas resolvidos no site em Java.
 
 
-Problem 1000
+URI 1000
 
 O seu primeiro programa em qualquer linguagem de programação normalmente é o "Hello World!". Neste primeiro problema tudo o que você precisa fazer é imprimir esta mensagem na tela.
 
@@ -15,8 +15,9 @@ Você deve imprimir a mensagem "Hello World!" e em seguida o final de linha, con
 Exemplo de Entrada	Exemplo de Saída
 Hello World!
 
+SOLUÇÃO:
 
-Problem 1000
+
 import java.io.IOException;
  
 public class Main {
@@ -29,7 +30,8 @@ public class Main {
  
 }
 
---------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+URI 1001
 
 Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B atribuindo o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo. Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 
@@ -39,7 +41,8 @@ A entrada contém 2 valores inteiros.
 Saída
 Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 
-Problem 1001
+SOLUÇÃO:
+
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -57,7 +60,7 @@ public class Main {
 	
 }
 
--------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 URI 1002
 
@@ -70,6 +73,8 @@ A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a vari
 
 Saída
 Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
+
+SOLUÇÃO:
 
 import java.io.IOException;
 import java.util.Scanner; 
@@ -89,7 +94,7 @@ public class Main {
     }
  
 }
---------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 URI 1003
 Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável SOMA. A seguir escrever o valor desta variável.
@@ -99,6 +104,9 @@ O arquivo de entrada contém 2 valores inteiros.
 
 Saída
 Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em branco antes e depois da igualdade seguido pelo valor correspondente à soma de A e B. Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
+
+
+SOLUÇÃO:
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -117,7 +125,7 @@ public class Main {
 	
 }
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 URI 1004
 Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação à variável PROD. A seguir mostre a variável PROD com mensagem correspondente.   
 
@@ -143,7 +151,7 @@ public class Main {
     }
 	
 }
----------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 URI 1005
 
@@ -154,6 +162,8 @@ O arquivo de entrada contém 2 valores com uma casa decimal cada um.
 
 Saída
 Imprima a mensagem "MEDIA" e a média do aluno conforme exemplo abaixo, com 5 dígitos após o ponto decimal e com um espaço em branco antes e depois da igualdade. Utilize variáveis de dupla precisão (double) e como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
+
+SOLUÇÃO:
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -174,7 +184,7 @@ public class Main {
 	
 }
 
-----------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
