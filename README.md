@@ -1,3 +1,3 @@
 # beecrowd  
-Problemas resolvidos no site em Java.
+Desafios resolvidos no site em Java.
 
